@@ -2,9 +2,9 @@
 Simple FiveM-Math
 
 ```lua
-local TimerA = (1000 * 60) * 60 -- 1 hour
-local TimerB = (1000 * 60) * 10 -- 10 minutes
-local TimerC = (1000 * 60) * 1 -- 1 minute
+local TimerA = ((1000 * 60) * 60) -- 1 hour
+local TimerB = ((1000 * 60) * 10) -- 10 minutes
+local TimerC = ((1000 * 60) * 1) -- 1 minute
 
 local TimerLong = (1000 * 60) * (60 * 2) -- 2 hours
 
